@@ -1,8 +1,10 @@
 # Grocery-Price-Comparison
-Multi-Store Price Aggregator with Delivery-Time Optimization Built with Streamlit + Python | Deployable via ngrok on Colab
 
 # Overview
-This project compares prices and delivery times for daily essential items across multiple grocery delivery services:
+Multi-store grocery price and delivery-time aggregator built with Streamlit and Python.  
+Compares prices across multiple grocery providers and provides recommendations for cheapest options overall and per item.
+
+# Grocery providers
 1. Blinkit
 2. Zepto
 3. Instamart
@@ -30,3 +32,9 @@ Users can search for multiple items at once, and the system returns:
 2. Streamlit for UI
 3. Pandas for dataset handling
 4. pyngrok for tunneling in Colab
+
+## Getting Started
+1. Clone the repository
+2. Install dependencies
+3. Run locally or via Colab with ngrok
+
