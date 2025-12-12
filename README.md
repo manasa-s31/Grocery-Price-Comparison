@@ -3,16 +3,17 @@ Multi-Store Price Aggregator with Delivery-Time Optimization Built with Streamli
 
 # Overview
 This project compares prices and delivery times for daily essential items across multiple grocery delivery services:
-Blinkit
-Zepto
-Instamart
-JioMart
+1. Blinkit
+2. Zepto
+3. Instamart
+4. JioMart
+   
 Users can search for multiple items at once, and the system returns:
-Best store for each product
-Total cart cost per store
-Average delivery time per store
-Cheapest overall store for the entire list
-Clean card-based UI
+1. Best store for each product
+2. Total cart cost per store
+3. Average delivery time per store
+4. Cheapest overall store for the entire list
+5. Clean card-based UI
 
 # Features
 ✔ Multi-item search
@@ -25,7 +26,7 @@ Clean card-based UI
 ✔ Beginner friendly + resume ready
 
 # Tech Stack
-Python 3
-Streamlit for UI
-Pandas for dataset handling
-pyngrok for tunneling in Colab
+1. Python
+2. Streamlit for UI
+3. Pandas for dataset handling
+4. pyngrok for tunneling in Colab
